@@ -1,0 +1,32 @@
+
+.global-container{
+	
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	
+}
+
+form{
+	padding-top: 10px;
+	font-size: 14px;
+	margin-top: 30px;
+}
+
+.card-title{ font-weight:300; }
+
+.login-form{ 
+	width:330px;
+	margin:20px;
+    background-color: rgb(243, 243, 243);
+    box-shadow: 0 3px 3px rgba(0,0,0,0.2);
+}
+
+.image{
+    border-radius: 10rem;
+}
+
+.btn-primary{
+    background-color: black;
+    border-color: black;
+}
